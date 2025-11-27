@@ -66,14 +66,6 @@ Tecnologias: Java • Spring Boot
 
 ---
 
-### 🎓 [Java Expert](https://github.com/hubpedro/java-expert)
-**Repositório com estudos avançados de Java:**  
-- Padrões de projeto  
-- Boas práticas  
-- Exploração de funcionalidades modernas do Java
-
----
-
 ## 🧑‍💻 Estou estudando agora
 
 - Microsserviços avançados (Event Sourcing, Saga)
@@ -83,19 +75,6 @@ Tecnologias: Java • Spring Boot
 
 ---
 
-## 📈 Atividade e Impacto
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hubpedro&theme=github-dark&hide_border=true)](https://streak-stats.demolab.com?user=hubpedro)  
-![Profile views](https://komarev.com/ghpvc/?username=hubpedro&color=blueviolet)
-
----
-
-## 📬 Vamos conversar?
-
-- [LinkedIn](https://www.linkedin.com/in/pedro-seuusuario/)
-- [Email](mailto:seuemail@dominio.com)
-
----
 
 <details>
   <summary>🎉 Curiosidades</summary>
